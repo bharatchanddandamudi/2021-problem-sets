@@ -26,15 +26,15 @@ Introduction to the intellectual enterprises of computer science and the art of 
 | Week | Topic                      | Name                       |
 | :--- | :---------------           | :------------------------- |
 | 0    | Scratch                    | [Pset0](https://cs50.harvard.edu/x/2021/weeks/0/)|
-| 1    | C                          | [Pset1](Pset1)             |
-| 2    | Arrays                     | [Pset2](Pset2)             |
-| 3    | Algorithms                 | [Pset3](Pset3)             |
-| 4    | Memory                     | [Pset4](Pset4)             |
-| 5    | Data Structures            | [Pset5](Pset5)             |
-| 6    | Python                     | [Pset6](Pset6)             |
-| 7    | SQL                        | [Pset7](Pset7)             |
-| 8    | HTML, CSS, JavaScript      | [Pset8](Pset8)             |
-| 9    | Flask                      | [Pset9](Pset7)             |
+| 1    | C                          | [Pset1](pset1)             |
+| 2    | Arrays                     | [Pset2](pset2)             |
+| 3    | Algorithms                 | [Pset3](pset3)             |
+| 4    | Memory                     | [Pset4](pset4)             |
+| 5    | Data Structures            | [Pset5](pset5)             |
+| 6    | Python                     | [Pset6](pset6)             |
+| 7    | SQL                        | [Pset7](pset7)             |
+| 8    | HTML, CSS, JavaScript      | [Pset8](pset8)             |
+| 9    | Flask                      | [Pset9](pset7)             |
 | 10   | Ethics                     | [Pset10](https://cs50.harvard.edu/x/2021/weeks/10/)|
 
 
@@ -46,15 +46,15 @@ Introduction to the intellectual enterprises of computer science and the art of 
 | Week | Topic                      | Name                       |
 | :--- | :---------------           | :------------------------- |
 | 0    | Scratch                    | [Pset0](https://cs50.harvard.edu/x/2021/weeks/0/)|
-| 1    | C                          | [Pset1](Pset1/labs)             |
-| 2    | Arrays                     | [Pset2](Pset2/labs)             |
-| 3    | Algorithms                 | [Pset3](Pset3/labs)             |
-| 4    | Memory                     | [Pset4](Pset4/labs)             |
-| 5    | Data Structures            | [Pset5](Pset5/labs)             |
-| 6    | Python                     | [Pset6](Pset6/labs)             |
-| 7    | SQL                        | [Pset7](Pset7/labs)             |
-| 8    | HTML, CSS, JavaScript      | [Pset8](Pset8/labs)             |
-| 9    | Flask                      | [Pset9](Pset7/labs)             |
+| 1    | C                          | [Pset1](pset1/labs)             |
+| 2    | Arrays                     | [Pset2](pset2/labs)             |
+| 3    | Algorithms                 | [Pset3](pset3/labs)             |
+| 4    | Memory                     | [Pset4](pset4/labs)             |
+| 5    | Data Structures            | [Pset5](pset5/labs)             |
+| 6    | Python                     | [Pset6](pset6/labs)             |
+| 7    | SQL                        | [Pset7](pset7/labs)             |
+| 8    | HTML, CSS, JavaScript      | [Pset8](pset8/labs)             |
+| 9    | Flask                      | [Pset9](pset7/labs)             |
 | 10   | Ethics                     | [Pset10](https://cs50.harvard.edu/x/2021/weeks/10/)|
 
 
