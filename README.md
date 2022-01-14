@@ -34,7 +34,7 @@ Introduction to the intellectual enterprises of computer science and the art of 
 | 6    | Python                     | [Pset6](pset6)             |
 | 7    | SQL                        | [Pset7](pset7)             |
 | 8    | HTML, CSS, JavaScript      | [Pset8](pset8)             |
-| 9    | Flask                      | [Pset9](pset7)             |
+| 9    | Flask                      | [Pset9](pset9)             |
 | 10   | Ethics                     | [Pset10](https://cs50.harvard.edu/x/2021/weeks/10/)|
 
 
@@ -54,7 +54,7 @@ Introduction to the intellectual enterprises of computer science and the art of 
 | 6    | Python                     | [Pset6](pset6/lab6)              |
 | 7    | SQL                        | [Pset7](pset7/lab7)             |
 | 8    | HTML, CSS, JavaScript      | [Pset8](pset8/lab8)             |
-| 9    | Flask                      | [Pset9](pset7/lab9)             |
+| 9    | Flask                      | [Pset9](pset9/lab9)             |
 | 10   | Ethics                     | [Pset10](https://cs50.harvard.edu/x/2021/weeks/10/)|
 
 
